@@ -1,0 +1,30 @@
+h2 {
+  color: #202534;
+  font-family: sans-serif;
+}
+
+p {
+  color: gray;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  width: auto;
+  height: 350px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.item p {
+  padding: 0px;
+  width: 150px;
+}
+
+.item img {
+  margin-left: -20px;
+}

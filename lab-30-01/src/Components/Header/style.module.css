@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.menu {
+  height: 15px;
+  cursor: pointer;
+  padding-top: 20px;
+}
